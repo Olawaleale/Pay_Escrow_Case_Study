@@ -7,15 +7,17 @@ This solution will be implemented across various countries in Africa, where the 
 
 The following were identified:
 
-a) Build a 12-month product roadmap
+a) Product Vision Board
 
-b) Choose the metrics you would track and why  
+b) A 12-month product roadmap
 
-c) Revenue model for this product 
+c) Metrics to track
 
-d) Go-to-market strategy 
+d) Revenue model
 
-e) Teams required and specific responsibilities highlighted
+e) Go-to-market strategy 
+
+f) Teams required and specific responsibilities highlighted
 
 
 

@@ -1,4 +1,3 @@
-**A PAYMENT CASE STUDY**
 # Pay_Escrow_Case_Study
 
 **SOLUTION**
@@ -8,15 +7,15 @@ This solution will be implemented across various countries in Africa, where the 
 
 The following were identified:
 
-Build a 12-month product roadmap
+a) Build a 12-month product roadmap
 
-Choose the metrics you would track and why  
+b) Choose the metrics you would track and why  
 
-Revenue model for this product 
+c) Revenue model for this product 
 
-Go-to-market strategy 
+d) Go-to-market strategy 
 
-Teams required and specific responsibilities highlighted
+e) Teams required and specific responsibilities highlighted
 
 
 

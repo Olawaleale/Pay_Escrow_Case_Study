@@ -7,7 +7,7 @@ The following were identified
 •	Choose the metrics you would track and why 
 •	Revenue model for this product 
 •	Go-to-market strategy 
-•	Teams required and specific responsibilities  highlighted
+•	Teams required and specific responsibilities highlighted
 
 QUESTION
 As a newly appointed Product Manager at X organization, my task is to develop a solution called Pay Escrow, which enables an independent third party to temporarily hold funds until certain transaction or value obligations are met by the buyer or seller. This solution will be implemented across various countries in Africa, where the sellers are referred to as merchants, and the buyers are customers.

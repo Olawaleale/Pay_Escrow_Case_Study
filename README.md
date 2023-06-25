@@ -1,15 +1,15 @@
-A PAYMENT CASE STUDY
-SOLUTION 
+**A PAYMENT CASE STUDY**
+**SOLUTION **
 # Pay_Escrow_Case_Study
 I developed a 12-month product roadmap for Pay Escrow, which enables an independent third party to temporarily hold funds until certain transaction or value obligations are met by the buyer or seller. This solution will be implemented across various countries in Africa, where the sellers are referred to as merchants, and the buyers are customers.
-The following were identified
-•	Build a 12-month product roadmap 
-•	Choose the metrics you would track and why 
-•	Revenue model for this product 
-•	Go-to-market strategy 
-•	Teams required and specific responsibilities highlighted
+The following were identified:
+Build a 12-month product roadmap 
+Choose the metrics you would track and why 
+Revenue model for this product 
+Go-to-market strategy 
+Teams required and specific responsibilities highlighted
 
-QUESTION
+**QUESTION**
 As a newly appointed Product Manager at X organization, my task is to develop a solution called Pay Escrow, which enables an independent third party to temporarily hold funds until certain transaction or value obligations are met by the buyer or seller. This solution will be implemented across various countries in Africa, where the sellers are referred to as merchants, and the buyers are customers.
 In traditional e-commerce scenarios, merchants typically receive their settlements on the next business day (T+1). However, with Pay Escrow, merchants will only receive their settlements the day after the customer confirms receipt of the ordered item(s) by providing a specific code indicating they have received the expected value.
 In cases where the customer does not receive the expected value within the agreed-upon delivery period, the customer will automatically receive a refund back to their account.
